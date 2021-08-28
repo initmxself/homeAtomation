@@ -1,3 +1,7 @@
+'''
+Folked from vinovator: https://gist.github.com/vinovator/7c9f1458dd5e7734b1150ae975503ca5
+'''
+
 from IGNORE import dladla_secrets 
 from UTILS import hcommands
 import telepot
